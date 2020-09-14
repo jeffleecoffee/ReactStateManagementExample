@@ -10,3 +10,5 @@ You will also see any lint errors in the console.
 This is the repo https://github.com/dai-shi/use-context-selector and a blog post from the creator on the ideas https://blog.axlight.com/posts/4-options-to-prevent-extra-rerenders-with-react-context/ <br />
 This is a very useful library that allows us to subscribe to specific context API objects without rerendering 
 everthing in the tree.
+
+![UseContextSelector](https://user-images.githubusercontent.com/847913/93117399-a0f05b80-f673-11ea-99ad-5cf696510ca1.png)
